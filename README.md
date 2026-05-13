@@ -53,6 +53,10 @@ SaaS platform for kart racing analytics, telemetry and race management in collab
 - OCR-based race result ingestion
 - Pilot ranking, gamification and statistics
 - Tracks data analysis
+- Optimized Core Web Vitals in a Vite front-end bundle
+
+- <img width="833" height="789" alt="image" src="https://github.com/user-attachments/assets/4664d4ec-15ea-4d0e-851a-ffcbe548fef8" />
+
 
 ## 🎮 Modding Impact  
 
